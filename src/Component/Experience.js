@@ -41,7 +41,7 @@ const Experience=()=>{
         <div name="Experience" className="max-w-screen-2xl container mx-auto px-4 md:px-20 mt-10">
         <div className="">
           <h1 className="text-3xl font-bold mb-5">Experience</h1>
-          <span className="underline font-semibold">I have more than 2 years of experience in below technologies</span>
+          <span className="underline font-semibold">I am a freshers</span>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-5">
             {items.map(({ id, logo, name }) => (
               <div
