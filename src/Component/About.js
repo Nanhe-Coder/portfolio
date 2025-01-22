@@ -13,14 +13,14 @@ const About = () => {
           <p>
             Hello I am Nanhe, a passionate web developer with a keen eye for
             <span className="font-bold">Mern Stack</span>.with a background in It, I strive to create impactful and
-            visually stunning softeare solutions that leave a lasting
+            visually stunning software solutions that leave a lasting
             impression.
           </p>
           <br/>
           <h1 className="font-semibold text-green-500 mb-3">Education & Training</h1>
           <p>
              <div>
-              <h1 className="font-bold">MERN Stack Developer (8-Month Course)<span>Ducate Institutes | Sept 2023 - june 2024</span></h1>
+              <h1 className="font-bold">MERN Stack Developer (8-Month Course)<span>Ducate Institutes | Sept 2023 - June 2024</span></h1>
              </div>
             [B.tech(CSE)][Firoj Gandhi institutes of Engineering College Raebarelly]
             [Graduation Date:2020 to 2023]
@@ -43,7 +43,7 @@ const About = () => {
           </h1>
           <p>
             Working in Tisdigitech company on web  design<br/>
-            Working as a Freelancer in tailwind css & Reactjs<br/>
+            Working as a Freelancer in tailwind css & ReactJS<br/>
             MERN Stack Developer (8-Month Course) in Ducate Institutes<br/>
             Make a Portfolio in Reactjs and Tailwindcss<br/>
             Make a E-commerce websites in tailwindcss

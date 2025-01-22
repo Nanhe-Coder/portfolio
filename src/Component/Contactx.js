@@ -20,7 +20,6 @@ const Contactx=()=>{
         toast.success("your message has been sent");
         
       } catch (error) {
-        console.log(error);
         toast.error("something went wrong");
       }
   };
